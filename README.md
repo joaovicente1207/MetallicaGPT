@@ -36,7 +36,7 @@ $ python train.py config/train_metallica.py
 
 You can edit the start string, generate more than one sample by inference and apply the max number of tokens that it will generate. 
 ```
-$ python sample.py --out_dir=out-metallica --start="Who I am?" --num_samples=1 --max_new_tokens=100
+$ python sample.py --out_dir=out-metallica --start="Am I alive?" --num_samples=1 --max_new_tokens=100 --seed=1997
 ```
 
 
