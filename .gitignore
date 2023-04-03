@@ -1,0 +1,6 @@
+/gpt
+/data/metallica/datasets.json
+/data/metallica/train.bin
+/data/metallica/val.bin
+/out-metallica
+/__pycache__
